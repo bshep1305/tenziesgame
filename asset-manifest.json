@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tenziesgame/static/js/main.9b237512.js",
+    "index.html": "/tenziesgame/index.html",
+    "main.9b237512.js.map": "/tenziesgame/static/js/main.9b237512.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9b237512.js"
+  ]
+}
